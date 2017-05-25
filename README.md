@@ -1,4 +1,4 @@
-# mergesort-nonrecorsive
+# mergesort-nonrecursive
 Non recursive mergesort in python
 
 Sorting
